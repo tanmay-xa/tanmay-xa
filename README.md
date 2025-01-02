@@ -1,3 +1,6 @@
+![logo](https://github.com/user-attachments/assets/76669e26-8699-4327-8ea7-0aa7e365986d)
+
+
 <h1 align="center">Hi 👋, I'm Tanmay Singh</h1>
 <h3 align="center">A passionate student diving into Full stack Development!</h3>
 
